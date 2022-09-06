@@ -1,5 +1,6 @@
 ### Hi there 👋
-now that you are here, I hope you find what you want, and you can reach me at kachidebelu4real@yahoo.com
+It's me, your friendly FrontEnd Dev, nice to meet you.
+You can reach me at kachidebelu4real@yahoo.com
 make sure to leave a message and add "from Github"
 
 <!--
