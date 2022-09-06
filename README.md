@@ -1,4 +1,6 @@
 ### Hi there 👋
+now that you are here, I hope you find what you want, and you can reach me at kachidebelu4real@yahoo.com
+make sure to leave a message and add "from Github"
 
 <!--
 **kachithe1st/kachithe1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
